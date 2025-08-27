@@ -1,6 +1,7 @@
 # 2ECEB-VELONZA-PA1
 
 # ALPHABET SOUP
+
 This function receives a string input and returns it as a new string with alphabetically arranged characters.
 
 1. Declare the alphabet_soup function with the string input enclosed by parentheses.
@@ -14,16 +15,20 @@ This function receives a string input and returns it as a new string with alphab
 5. At last, print out the sorted string by calling the alphabet_soup function.
 
 OUTPUT
+
 unsorted: feedback
+
 sorted: abcdeefk
 
 
 # EMOTICON PROBLEM
+
 This function takes a sentence as input and replaces the given words with the corresponding emoticons.
 
 1. Declare the emotify function with a string input called "sentence" enclosed by parentheses.
    
 2. Define a dictionary named 'emoticons' that sets the given word with its corresponding emoticons.
+
     "smile" →  ":)"
     "grin"  →  ":D"
     "sad"   →  ":("
@@ -38,19 +43,29 @@ This function takes a sentence as input and replaces the given words with the co
 7. At last, print out the sorted string by calling the emotify function with the sentence enclosed by parentheses.
 
 INPUT
+
 "When you feel sad"
+
 "or mad about something."
+
 "Think positive and choose to be happy grin"
+
 "Just smile and go on."
 
+
 OUTPUT
+
 When you feel :(
+
 or >:( about something.
+
 Think positive and choose to be happy :D
+
 Just :) and go on.
 
 
 # UNPACKING LIST PROBLEMS
+
 This code outputs the first element, the last element, and the elements between them from an array of numbers.
 
 1. List array 'm'
@@ -64,11 +79,15 @@ This code outputs the first element, the last element, and the elements between 
 5. At last, print all using "text" comma(,) then the created function format inside the parentheses.
 
 ARRAY
+
 m = [8,16,24,32,40,48]
 
 OUTPUT 
+
 First : 8
+
 Middle : [16, 24, 32, 40]
+
 Last : 48
 
 
